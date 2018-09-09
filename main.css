@@ -1,0 +1,14 @@
+body {
+    background-color: powderblue;
+}
+h1   {
+    color: blue;
+    font-size: 300%;
+}
+p    {
+    color: red;
+}
+.img1 {
+    height: 20%;
+    width: 20%;
+}
